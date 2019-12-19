@@ -30,5 +30,5 @@ public class Settings {
     public static final String READ_PATH = System.getProperty("user.home") + File.separator + "data" + File.separator + "in";
     public static final String WRITE_PATH = System.getProperty("user.home") + File.separator + "data" + File.separator + "out";
 
-    public static final int WAIT_DELAY_SECONDS = 5;
+    public static final int WAIT_DELAY_SECONDS = 20;
 }
