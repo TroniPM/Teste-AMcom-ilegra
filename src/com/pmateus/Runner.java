@@ -5,11 +5,6 @@
  */
 package com.pmateus;
 
-import static com.pmateus.utils.Settings.READ_PATH;
-import java.io.File;
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  *
  * @author Paulo Mateus
