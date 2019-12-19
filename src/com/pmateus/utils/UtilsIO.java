@@ -1,12 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.pmateus.utils;
 
 import static com.pmateus.utils.Settings.FILE_LINE_BREAKER;
-import static com.pmateus.utils.Settings.READ_PATH;
 import static com.pmateus.utils.Settings.WRITE_PATH;
 
 import java.io.File;

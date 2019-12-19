@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.pmateus.utils;
 
 import java.io.File;
@@ -30,5 +25,5 @@ public class Settings {
     public static final String READ_PATH = System.getProperty("user.home") + File.separator + "data" + File.separator + "in";
     public static final String WRITE_PATH = System.getProperty("user.home") + File.separator + "data" + File.separator + "out";
 
-    public static final int WAIT_DELAY_SECONDS = 20;
+    public static final int WAIT_DELAY_SECONDS = 5;
 }
